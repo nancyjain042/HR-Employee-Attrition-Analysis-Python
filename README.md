@@ -36,25 +36,43 @@ JobRole: Employee's job role
 
 JobSatisfaction: Job satisfaction level
 
-MaritalStatus: Marital status of the employee.
-MonthlyIncome: Monthly income of the employee.
-MonthlyRate: Monthly rate.
-NumCompaniesWorked: Number of companies the employee has worked for.
-Over18: Indicates if the employee is over 18 years old.
-OverTime: Whether the employee works overtime.
-PercentSalaryHike: Percentage increase in salary.
-PerformanceRating: Performance rating.
-RelationshipSatisfaction: Satisfaction with work relationships.
-StandardHours: Standard working hours.
-StockOptionLevel: Stock option level.
-TotalWorkingYears: Total years of work experience.
-TrainingTimesLastYear: Number of training sessions attended last year.
-WorkLifeBalance: Work-life balance satisfaction.
-YearsAtCompany: Number of years with the current company.
-YearsInCurrentRole: Number of years in the current role.
-YearsSinceLastPromotion: Number of years since the last promotion.
-YearsWithCurrManager: Number of years with the current manager.
-Attrition: The target variable indicating whether the employee has left the company (Yes/No).
+MaritalStatus: Marital status of the employee
+
+MonthlyIncome: Monthly income of the employee
+
+MonthlyRate: Monthly rate
+
+NumCompaniesWorked: Number of companies the employee has worked for
+
+Over18: Indicates if the employee is over 18 years old
+
+OverTime: Whether the employee works overtime
+
+PercentSalaryHike: Percentage increase in salary
+
+PerformanceRating: Performance rating
+
+RelationshipSatisfaction: Satisfaction with work relationships
+
+StandardHours: Standard working hours
+
+StockOptionLevel: Stock option level
+
+TotalWorkingYears: Total years of work experience
+
+TrainingTimesLastYear: Number of training sessions attended last year
+
+WorkLifeBalance: Work-life balance satisfaction
+
+YearsAtCompany: Number of years with the current company
+
+YearsInCurrentRole: Number of years in the current role
+
+YearsSinceLastPromotion: Number of years since the last promotion
+
+YearsWithCurrManager: Number of years with the current manager
+
+Attrition: The target variable indicating whether the employee has left the company (Yes/No)
 
 ### Key Objectives
 
