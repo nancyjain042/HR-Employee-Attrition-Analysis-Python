@@ -9,19 +9,33 @@ The available dataset contains various data points about past and current employ
 The dataset includes the following features:
 
 Age: Employee's age.
-BusinessTravel: Frequency of business travel (e.g., Travel_Rarely, Travel_Frequently).
-DailyRate: Daily rate of pay.
-Department: Employee's department (e.g., Sales, Research & Development).
-DistanceFromHome: Distance from the employee's home to the workplace.
-Education: Employee's education level (ranging from 'Below College' to 'Doctor').
-EducationField: Field of education.
-EnvironmentSatisfaction: Satisfaction with the work environment.
-Gender: Employee's gender.
-HourlyRate: Hourly rate of pay.
-JobInvolvement: Level of job involvement.
-JobLevel: Employee's job level.
-JobRole: Employee's job role.
-JobSatisfaction: Job satisfaction level.
+
+BusinessTravel: Frequency of business travel (e.g., Travel_Rarely, Travel_Frequently)
+
+DailyRate: Daily rate of pay
+
+Department: Employee's department (e.g., Sales, Research & Development)
+
+DistanceFromHome: Distance from the employee's home to the workplace
+
+Education: Employee's education level (ranging from 'Below College' to 'Doctor')
+
+EducationField: Field of education
+
+EnvironmentSatisfaction: Satisfaction with the work environment
+
+Gender: Employee's gender
+
+HourlyRate: Hourly rate of pay
+
+JobInvolvement: Level of job involvement
+
+JobLevel: Employee's job level
+
+JobRole: Employee's job role
+
+JobSatisfaction: Job satisfaction level
+
 MaritalStatus: Marital status of the employee.
 MonthlyIncome: Monthly income of the employee.
 MonthlyRate: Monthly rate.
