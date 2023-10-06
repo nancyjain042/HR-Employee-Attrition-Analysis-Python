@@ -136,11 +136,11 @@ Notably, young professionals constitute a significant portion of those leaving, 
 
 5. Training and Development: Invest in training and development programs for employees at all career stages, from freshers to long-serving staff. This can improve skills, job satisfaction, and retention rates.
 
-5. Flexible Work Arrangements: Offer flexible work arrangements, such as telecommuting options or flexible hours, to help employees better manage their work-life balance. This can reduce the burden of overtime and potentially mitigate attrition.
+6. Flexible Work Arrangements: Offer flexible work arrangements, such as telecommuting options or flexible hours, to help employees better manage their work-life balance. This can reduce the burden of overtime and potentially mitigate attrition.
 
-6. Exit Interviews: Conduct thorough exit interviews with departing employees to gain insights into their reasons for leaving. Use this feedback to refine retention strategies and address specific pain points.
+7. Exit Interviews: Conduct thorough exit interviews with departing employees to gain insights into their reasons for leaving. Use this feedback to refine retention strategies and address specific pain points.
 
-7.Mentorship and Support: Establish mentorship programs to help new employees, including freshers, acclimate to the organization. Providing guidance and support can improve their job satisfaction and long-term commitment.
+8. Mentorship and Support: Establish mentorship programs to help new employees, including freshers, acclimate to the organization. Providing guidance and support can improve their job satisfaction and long-term commitment.
 
 
 ### Installation
