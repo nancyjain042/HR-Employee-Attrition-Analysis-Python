@@ -76,18 +76,31 @@ Attrition: The target variable indicating whether the employee has left the comp
 
 ### Key Objectives
 
-Identify Attrition Drivers: Determine the primary factors that contribute to employee attrition within the organization. Explore the dataset to find patterns and correlations between employee attributes, job-related factors, and attrition status.
+**Identify Attrition Drivers**: Determine the primary factors that contribute to employee attrition within the organization. Explore the dataset to find patterns and correlations between employee attributes, job-related factors, and attrition status.
 
-Employee Segmentation: Segment the workforce based on attributes such as education, job involvement, job satisfaction, and more to understand which groups are more susceptible to attrition.
+**Employee Segmentation**: Segment the workforce based on attributes such as education, job involvement, job satisfaction, and more to understand which groups are more susceptible to attrition.
 
-Actionable Insights: Provide actionable recommendations to the HR department on strategies and interventions that can help reduce attrition. These recommendations should be based on the analysis and insights derived from the dataset.
+**Actionable Insights**: Provide actionable recommendations to the HR department on strategies and interventions that can help reduce attrition. These recommendations should be based on the analysis and insights derived from the dataset.
 
 
 ### Data Processing
 
-**Data Exploration**: We preprocess and explore the dataset to gain insights into employee attrition trends.
+**Data Exploration**: We preprocess and explore the dataset to gain insights into employee attrition trends. 
+1. Dataset Size: The dataset contains 1470 rows, representing individual observations or employees, and 35 columns, capturing various attributes related to these employees.
+
+2. Data Types: Out of the 35 columns, 9 are categorical variables, while the remaining columns are numerical in nature.
+
+3. Missing Values: There are no missing values in any of the columns. This simplifies data preprocessing since no imputation or removal of missing data is required.
+
+4. Duplicates: The absence of duplicates in the dataset ensures data integrity, as each row represents a unique employee record.
+
+5. Outliers: The dataset doesn't contain any outliers, which are extreme or unusual values that can distort statistical analysis
+
+
 
  **Exploratory Data Analysis (EDA)**: We perform in-depth EDA to uncover hidden patterns, correlations, and trends related to employee attrition.
+
+ 
  Data Visualization
 
 **Matplotlib and Seaborn**: We leverage popular Python libraries like Matplotlib and Seaborn to create informative and visually appealing charts and graphs that illustrate attrition patterns.
