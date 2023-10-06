@@ -1,2 +1,5 @@
-# HR-Employee-Attrition-Analysis-Python
-This repository contains a data analysis project that explores employee attrition within an organization. We analyze factors contributing to attrition and provide insights to improve employee retention strategies.
+# Employee Attrition Analysis
+
+##**Problem Statement:**
+
+The HR department of your organization is focused on understanding and mitigating workforce attrition. The goal is to identify the key factors that influence employees' decisions to leave or stay with the company and to develop actionable insights to improve employee retention. The available dataset contains various data points about past and current employees, including demographics, job-related factors, and employee satisfaction metrics.
