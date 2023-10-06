@@ -98,3 +98,10 @@ Actionable Insights: Provide actionable recommendations to the HR department on 
 ### Insights
 
 ### Recommendations
+
+### Installation
+To run the analysis, you need Python 3 and the following Python libraries:
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
